@@ -1,10 +1,7 @@
-<div align="left">
+<# 👋 Hi, I'm Abdulkhadir (Abdulnor)  
+### 📊 Data Analyst | Excel & SQL Specialist
 
-# 👋 Hi, I'm Abdulkhadir (Abdulnor)  
-### 📊 Data Analyst | Excel, SQL & Business Intelligence Specialist
-
-Welcome to my GitHub profile! I am a passionate Data Analyst specializing in turning raw data into actionable business insights, interactive dashboards, and automated ETL workflows. 
-
+Welcome to my GitHub profile! I am a Data Analyst focused on data modeling, writing relational database queries, and transforming raw data into clear, actionable insights using Excel and SQL
 ---
 
 ### 🛠️ Technical Skills & Tools
