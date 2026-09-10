@@ -1,3 +1,5 @@
+<div align="left">
+
 # 👋 Hi, I'm Abdulkhadir (Abdulnor)  
 ### 📊 Data Analyst | Excel, SQL & Business Intelligence Specialist
 
@@ -32,3 +34,5 @@ Welcome to my GitHub profile! I am a passionate Data Analyst specializing in tur
 ---
 
 > *"Data isn't just numbers; it's the foundation for strategic decisions."*
+
+</div>
