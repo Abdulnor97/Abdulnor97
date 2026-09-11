@@ -1,4 +1,4 @@
-<# 👋 Hi, I'm Abdulkhadir (Abdulnor)  
+<# 👋 Hi, **I'm Abdulkhadir (Abdulnor)**  
 ### 📊 Data Analyst | Excel & SQL Specialist
 
 Welcome to my GitHub profile! I am a Data Analyst focused on data modeling, writing relational database queries, and transforming raw data into clear, actionable insights using Excel and SQL
