@@ -1,4 +1,4 @@
-👋 Hi, **I'm Abdulkadir Nor Salah (Abdulnor)**  
+👋 Hi, **I'm Abdulkadir Nor Salah   
 ### 📊 Data Analyst | SQL, Excel & Power BI Specialist
 
 Welcome to my GitHub profile! I am a Data Analyst focused on data modeling, writing relational database queries, building interactive dashboards, and transforming raw data into clear, actionable insights using **Power BI**, **SQL**, and **Excel**.
