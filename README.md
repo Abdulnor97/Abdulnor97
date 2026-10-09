@@ -5,11 +5,12 @@ Welcome to my GitHub profile! I am a Data Analyst focused on data modeling, writ
 
 ---
 
-### 🛠️ Technical Skills & Tools
+## 🛠️ Skills
 
-* **Data Visualization & Analytics:** Power BI (DAX, Power Query, Data Modeling, Dynamic Dashboards), Advanced Excel (Power Pivot), Financial & Market Intelligence
-* **Database & SQL:** PostgreSQL, Multi-Table Joins, Complex Aggregations, CTEs, Window Functions
-* **Development & Tools:** VS Code, Git & GitHub, Markdown Documentation
+- **Power BI:** DAX, Power Query, data modeling, dashboards
+- **SQL:** PostgreSQL, multi-table JOINs, CTEs, aggregations
+- **Excel:** Power Query, Power Pivot, dynamic arrays, data validation
+- **Tools:** VS Code, Git & GitHub
 
 ---
 
