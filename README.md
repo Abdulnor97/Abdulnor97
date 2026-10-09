@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I am a Data Analyst focused on data modeling, writ
 
 ### 📬 Connect with Me
 
-* **LinkedIn:** [in/abdulnor](https://linkedin.com/in/abdulkadirnor)
-* **Instagram:** [@abdulnor99](https://instagram.com/abdulnor99)
+- LinkedIn: [Abdulkadir Nor](https://www.linkedin.com/in/abdulkadirnor)
+- Email: abdukhadirnor@gmail.com
 
 
 ---
