@@ -15,13 +15,13 @@ Welcome to my GitHub profile! I am a Data Analyst focused on data modeling, writ
 
 ### 📌 Featured Projects
 
-* **[📈 Power BI Data Jobs Dashboard](https://github.com/Abdulnor97/Power-BI-Dashboard)** 
+* **[📈 Power BI Data Jobs Portfolio](https://github.com/Abdulnor97/Power-BI-Dashboard)** 
   Interactive Power BI dashboard analyzing global data job roles, median salary distributions, top hiring platforms, and geographical job market demand using advanced DAX measures and custom data modeling.
 
-* **[📊 Excel Project - Data Analytics Portfolio](https://github.com/Abdulnor97/Excel_Project_Data_Analytics)**
+* **[📊 Excel Data Analytics Portfolio](https://github.com/Abdulnor97/Excel_Project_Data_Analytics)**
   End-to-end data processing, dynamic array modeling, Power Query transformations, and interactive salary dashboards using Microsoft Excel.
 
-* **[🗄️ SQL Data Analyst Job Market Analysis](https://github.com/Abdulnor97/sql-data-analyst-job-market-analysis)**
+* **[🗄️ SQL Data Analytics Portfolio](https://github.com/Abdulnor97/sql-data-analyst-job-market-analysis)**
   In-depth analysis of the Data Analytics job market using advanced PostgreSQL queries to uncover high-paying skills and optimal career paths.
 
 ---
