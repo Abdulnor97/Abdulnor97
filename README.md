@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdulkadir Nor Salah
+# 👋 Hi, I'm Abdulkadir Nor 
 
 ### 📊 Data Analyst | Power BI, SQL & Excel Specialist
 
